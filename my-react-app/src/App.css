@@ -11,6 +11,7 @@
   --container-color: hsl(0, 0%, 93%);
   --border-color: hsl(0, 0%, 87%);
   --title-white: #fff;
+  --text-white: #fff;
 
   /*========== Font and Typography ==========*/
   --body-font: "Open Sans", sans-serif;
